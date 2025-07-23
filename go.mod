@@ -1,3 +1,3 @@
-module github.com/pChausseC/golang-learning-journey/00-hello-world
+module github.com/pChausseC/golang-learning-journey
 
 go 1.24.5
