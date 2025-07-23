@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build outputs
+bin/
+build/
+dist/
+*.o
+*.a
+
+# Go workspace and tools
+vendor/
+coverage.out
+
+# VSCode settings
+.vscode/
+
+# JetBrains GoLand project files
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
